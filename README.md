@@ -13,7 +13,7 @@
 
 This is part of my C# learning journey. The goal is to practice object-oriented programming principles with a focus on polymorphism and clean syntax.
 
----
+---------------------------------------------------------------------------------------------------
 
 📁 File:
 - `Program.cs` – contains the example classes and runtime behavior.
